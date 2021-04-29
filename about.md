@@ -3,4 +3,7 @@ layout: page
 title: About
 ---
 
-Something about me.
+Holaaaaaaaaaaaaaaaaaaaaaaa!!!!!!!!!!!!!!!!!!!
+
+Busy securing your hardware.
+                   
