@@ -3,7 +3,7 @@ title: How I started with Git and Github
 published: true
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+As far as I can remember it was the time of [Hacktoberfest-2019](https://hacktoberfest.digitalocean.com/) hosted by [amFOSS](https://amfoss.in/) when first time I had heard about Git & GitHub. We were supposed to create pull requests and they were monitoring who was creating the PR fast and top 10 were getting rewards. Well that's a preety fun way to start with Git,isn't it?
 
 [Link to another page](another-page).
 
