@@ -27,17 +27,17 @@ There are a ton of ways to use Git and GitHub, but getting started with GitHub d
 
 That being said, it’s a good idea to find your terminal and get just the tiniest bit comfortable with it. Terminal commands make things so much faster! I’ll definitely show you how to get started using the GitHub website. I’ll also show you some terminal commands that you might want to use to make your life just a little bit nicer.
 
-> Any time you see a command in this article that includes these marks:` < >` , you want to delete those marks and replace what’s between them with your own information.
+> Any time you see a command in this article that includes these marks:`< >`, you want to delete those marks and replace what’s between them with your own information.
 Let’s say you see something like `git add <filename>`. That means that you would type, for example, `git add hello_world.py` if you wanted to add a file named “hello_world.py” to your GitHub repository.
 
-### [](#header-3)Header 3
+I’m going to give you a lot of explanation here, but these are all the terminal commands that you really need to know to get started:
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+```
+git clone
+git status
+git add
+git commit -m “ “
+git push
 ```
 
 ```ruby
