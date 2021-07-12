@@ -156,7 +156,9 @@ It’s a smart idea to include a **README** file with information about your pro
 * Click “Initialize this repository with a README” if you want to include the README file. (I definitely recommend doing this! It’s the first thing people are going to look at when they check out your repository. It’s also a great place to put information that you need to have in order to understand or run the project.)
 
 ![](https://raw.githubusercontent.com/RanitPradhan/blog/master/Images/blog1.jpg)
-
+                      New Repository
+![](https://raw.githubusercontent.com/RanitPradhan/blog/master/Images/blog2.jpg)
+                  Creating your new repository
 ###### [](#header-6)Header 6
 
 | head1        | head two          | three |
