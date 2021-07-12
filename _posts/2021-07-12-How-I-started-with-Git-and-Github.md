@@ -3,7 +3,7 @@ title: How I started with Git and Github
 published: true
 ---
 
-As far as I can remember it was the time of [Hacktoberfest-2019](https://hacktoberfest.digitalocean.com/) hosted by [amFOSS](https://amfoss.in/) when first time I had heard about Git & GitHub. We were supposed to create pull requests and they were monitoring who was creating the PR fast and top 10 were getting rewards. Well that's a preety fun way to start with Git,isn't it?
+As far as I can remember it was the time of [Hacktoberfest-2019](https://hacktoberfest.digitalocean.com/) hosted by [amFOSS](https://amfoss.in/) when first time I had heard about Git & GitHub. We were supposed to create `Pull Requests` and they were monitoring who were creating their *PR* fast and top 10 were getting rewards. Not only by them even we can get official rewards like T-Shirt and cool stickers from Hacktoberfest. Well that's a preety fun way to start with Git,isn't it?
 
 [Link to another page](another-page).
 
