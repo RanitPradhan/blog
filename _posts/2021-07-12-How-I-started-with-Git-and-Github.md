@@ -59,17 +59,25 @@ is also seriously useful if you’re just starting out! We’ll discuss that too
 
 (If you’re on a Mac, you already have a terminal! You can search for it by clicking on the magnifying glass icon in the upper right-hand corner of your screen and searching for the word “terminal.” )
 
-#### [](#header-4)Step 1: Sign up and installation!
+#### [](#header-3)Step 1: Sign up and installation!
 
 Go to [GitHub](https://github.com/) and sign up for an account. You could just stop there and GitHub would work just fine. It’s a good idea, though, to [install Git](https://git-scm.com/downloads) if you haven’t already. You can absolutely get started without it, but if you want to work on your local computer, then you want to have Git installed. You can download it or [install it via your package manager instead](https://gist.github.com/derhuerst/1b15ff4652a867391f03).
 
 Now go to your terminal and introduce yourself to Git! To set your username for *every repository* on your computer, type
 
 ```
+git config --global user.name "<your_name_here>" 
+```
+replacing `"<your name here>"` with your own name in quotations. You can use any name or handle you want. If you want to set your name for just one repository, leave out the word “global.”
+
+Now you can tell Git your email, and make sure it’s the same email you used when you signed up for GitHub
+
+```
 git config --global user.name "<your_name_here>"
 ```
+It’s easy to keep your email private, and you can find those instructions in [this article](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-email-preferences/blocking-command-line-pushes-that-expose-your-personal-email-address). You only need to check two boxes in your GitHub account.
 
-  
+*Now you’re ready to start using Git on your computer!*
 ###### [](#header-6)Header 6
 
 | head1        | head two          | three |
