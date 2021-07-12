@@ -138,7 +138,7 @@ That’s it! You can now initialize a repository, commit files, commit changes, 
 
 If you’ve got this, just scroll down to “**Learning to work with others**” to move on to branching and collaboration!
 
-###### [](#header-3)I don’t know what you just said (Option 2)
+#### [](#header-3)I don’t know what you just said (Option 2)
 
 I’m going to assume that anyone who’s interested in option 2 is brand new to all of this and maybe has a folder full of files (or you plan to have one) that you want to put on GitHub and you just don’t know how to do that.
 
@@ -154,7 +154,7 @@ It’s a smart idea to include a **README** file with information about your pro
 * Name the repository, and add a quick description.
 * Decide whether you want this to be a public or a private repository
 * Click “Initialize this repository with a README” if you want to include the README file. (I definitely recommend doing this! It’s the first thing people are going to look at when they check out your repository. It’s also a great place to put information that you need to have in order to understand or run the project.)
-
+<img src= "https://github.com/RanitPradhan/blog/blob/master/Images/blog1.jpg">
 ###### [](#header-6)Header 6
 
 | head1        | head two          | three |
