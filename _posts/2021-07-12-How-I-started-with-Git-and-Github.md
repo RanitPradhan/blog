@@ -20,7 +20,16 @@ Let’s get started!
 
 ## [](#header-2)What is Git? What’s GitHub?
 
-> Git is the version control tech of choice for basically everybody right now, from developers to designers. GitHub is the social code-hosting platform that’s currently used more than any other. It’s a place where you can play and experiment. It’s a place where you can find (and play around with) the most incredible open-source information, emerging technologies, features, and designs. It’s a place to learn and it’s a place to get involved. You can keep code there for work or for school, and you can grab some sweet code that you want to explore further. You can even host websites for free directly from your repository![If you want to know how to do that, check out this article!](https://towardsdatascience.com/how-to-create-a-free-github-pages-website-53743d7524e1)
+> Git is the version control tech of choice for basically everybody right now, from developers to designers. GitHub is the social code-hosting platform that’s currently used more than any other. It’s a place where you can play and experiment. It’s a place where you can find (and play around with) the most incredible open-source information, emerging technologies, features, and designs. It’s a place to learn and it’s a place to get involved. You can keep code there for work or for school, and you can grab some sweet code that you want to explore further. You can even host websites for free directly from your repository! 
+[If you want to know how to do that, check out this article!](https://towardsdatascience.com/how-to-create-a-free-github-pages-website-53743d7524e1)
+
+There are a ton of ways to use Git and GitHub, but getting started with GitHub doesn’t have to be overwhelming. You don’t need to be some kind of master coder or anything. You can even do the most important things right on the GitHub website!
+
+That being said, it’s a good idea to find your terminal and get just the tiniest bit comfortable with it. Terminal commands make things so much faster! I’ll definitely show you how to get started using the GitHub website. I’ll also show you some terminal commands that you might want to use to make your life just a little bit nicer.
+
+> Any time you see a command in this article that includes these marks:` < >` , you want to delete those marks and replace what’s between them with your own information.
+Let’s say you see something like `git add <filename>`. That means that you would type, for example, `git add hello_world.py` if you wanted to add a file named “hello_world.py” to your GitHub repository.
+
 ### [](#header-3)Header 3
 
 ```js
