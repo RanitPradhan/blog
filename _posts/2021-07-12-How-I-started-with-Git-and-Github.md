@@ -156,9 +156,24 @@ It’s a smart idea to include a **README** file with information about your pro
 * Click “Initialize this repository with a README” if you want to include the README file. (I definitely recommend doing this! It’s the first thing people are going to look at when they check out your repository. It’s also a great place to put information that you need to have in order to understand or run the project.)
 
 ![](https://raw.githubusercontent.com/RanitPradhan/blog/master/Images/blog1.jpg)
-                      New Repository
+
 ![](https://raw.githubusercontent.com/RanitPradhan/blog/master/Images/blog2.jpg)
-                  Creating your new repository
+
+You can totally start working right from this point if you want to! You can upload files, edit files, and so on right from your repository on the GitHub website. However, you might not be satisfied with only this option.
+
+There are two ways to make changes to your project. You can make changes in your files/notebooks on your computer and you can also make changes right on GitHub.
+Let’s say you want to make some changes to your README file right on GitHub.
+
+* First, go to your repository.
+* Click the name of the file to bring up that file (for example, click “README.md” to go to the readme file).
+* Click the pencil icon in the upper right corner of the file and make some changes.
+* Write a short message in the box that describes the changes you made (and an extended description if you want).
+* Click the “Commit changes” button.
+
+![](https://raw.githubusercontent.com/RanitPradhan/blog/master/Images/blog3.jpg)
+
+![](https://raw.githubusercontent.com/RanitPradhan/blog/master/Images/blog4.jpg)
+
 ###### [](#header-6)Header 6
 
 | head1        | head two          | three |
