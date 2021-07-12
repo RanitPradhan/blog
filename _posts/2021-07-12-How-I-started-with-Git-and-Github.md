@@ -77,7 +77,83 @@ git config --global user.name "<your_name_here>"
 ```
 It’s easy to keep your email private, and you can find those instructions in [this article](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-email-preferences/blocking-command-line-pushes-that-expose-your-personal-email-address). You only need to check two boxes in your GitHub account.
 
-*Now you’re ready to start using Git on your computer!*
+**Now you’re ready to start using Git on your computer!**
+
+To get started, you can create a new repository on the GitHub website or perform a `git init` to create a new repository from your project directory.
+
+The repository consists of three ‘trees.’ First is the **working directory**, which holds the actual files. The second one is the **index** or the staging area. Then there’s the **head**, which points to the last commit you made.
+
+**I’m already comfortable with the terminal (Option 1)**
+Here’s how you can get started right from the terminal:
+```
+git init 
+```
+If you want to initialize your project with all of the files in your project directory, run
+```
+git init .
+```
+to include everything.
+
+Let’s say you have a folder for your project called “new_project.” You could head on over to that folder in your terminal window and add a local repository to it by running
+```
+cd new_project
+git init
+```
+
+Now you have a new hidden directory called `.git` in your project directory. This is where Git stores what it needs so that it can track your project. Now you can add files to the staging area one by one with
+```
+git add <filename_one>
+```
+or run
+
+```
+git add .
+```
+to add all of your files to the staging area. You can commit these changes with the command
+
+```
+git commit -m "<add a commit message here>"
+```
+
+and if you’re happy with your changes, you can run
+```
+git push
+```
+to push your changes through. You can check whether or not you have changes to push through any time by running
+```
+git status
+```
+If you made some changes, you can update your files on at a time with
+```
+git add <filename>
+```
+or
+```
+git add --all
+```
+Then commit them with your commit message and push them through.
+
+That’s it! You can now initialize a repository, commit files, commit changes, and push them through to the master branch.
+
+If you’ve got this, just scroll down to “**Learning to work with others**” to move on to branching and collaboration!
+
+**I don’t know what you just said (Option 2)**
+
+I’m going to assume that anyone who’s interested in option 2 is brand new to all of this and maybe has a folder full of files (or you plan to have one) that you want to put on GitHub and you just don’t know how to do that.
+
+Let’s make that happen!
+
+Say you want to create a new repository. (You probably do! That’s where your project will live. If you aren’t going to create a new repository, you probably want to clone an existing repository. We’ll talk about that next, but that’s how you grab someone else’s project and information that you need for your job or the course you’re taking.)
+
+Your **repository** is where you’ll organize your project. You can keep folders, files, images, videos, spreadsheets, Jupyter notebooks, data sets, and anything else your project needs. Before you can work with Git, you have to initialize a repository for your project and set it up so that Git will manage it. You can do this right on the GitHub website.
+
+It’s a smart idea to include a **README** file with information about your project. You can create one at the same time that you create your repository with the click of a checkbox.
+
+* Go to the GitHub website, look in the upper right corner, and click the + sign and then click “New repository.”
+* Name the repository, and add a quick description.
+* Decide whether you want this to be a public or a private repository
+* Click “Initialize this repository with a README” if you want to include the README file. (I definitely recommend doing this! It’s the first thing people are going to look at when they check out your repository. It’s also a great place to put information that you need to have in order to understand or run the project.)
+
 ###### [](#header-6)Header 6
 
 | head1        | head two          | three |
