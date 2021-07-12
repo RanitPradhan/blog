@@ -77,13 +77,14 @@ git config --global user.name "<your_name_here>"
 ```
 It’s easy to keep your email private, and you can find those instructions in [this article](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-email-preferences/blocking-command-line-pushes-that-expose-your-personal-email-address). You only need to check two boxes in your GitHub account.
 
-#### [](#header-6)Now you’re ready to start using Git on your computer!
+#### [](#header-3)Now you’re ready to start using Git on your computer!
 
 To get started, you can create a new repository on the GitHub website or perform a `git init` to create a new repository from your project directory.
 
 The repository consists of three ‘trees.’ First is the **working directory**, which holds the actual files. The second one is the **index** or the staging area. Then there’s the **head**, which points to the last commit you made.
 
 #### [](#header-3)I’m already comfortable with the terminal (Option 1)
+
 Here’s how you can get started right from the terminal:
 ```
 git init 
