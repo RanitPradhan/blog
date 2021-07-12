@@ -12,12 +12,15 @@ This one’s for you!
 > It’s totally easy to get started with Git. If you’re a fast reader (and you don’t take a lot of time with sign up and installation), you can be up and running on GitHub about ten minutes from right now.
 > 
 
-## [](#header-2)Header 2
+If you go all the way through the article, you can practice cloning an existing repository, creating a branch, making changes, and creating a pull request. Along the way, you might also learn how to find your terminal, use terminal commands, and edit a markdown (.md) file!
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+This article will get you up and running with the basics. There’s a lot of stuff to learn if you want to use Git and GitHub like a pro, of course. You can go way beyond this introductory information! We’re going to leave the next-level stuff for another time, though.
 
+Let’s get started!
+
+## [](#header-2)What is Git? What’s GitHub?
+
+> Git is the version control tech of choice for basically everybody right now, from developers to designers. GitHub is the social code-hosting platform that’s currently used more than any other. It’s a place where you can play and experiment. It’s a place where you can find (and play around with) the most incredible open-source information, emerging technologies, features, and designs. It’s a place to learn and it’s a place to get involved. You can keep code there for work or for school, and you can grab some sweet code that you want to explore further. You can even host websites for free directly from your repository![If you want to know how to do that, check out this article!](https://towardsdatascience.com/how-to-create-a-free-github-pages-website-53743d7524e1)
 ### [](#header-3)Header 3
 
 ```js
