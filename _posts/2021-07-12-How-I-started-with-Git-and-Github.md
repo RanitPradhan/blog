@@ -3,17 +3,14 @@ title: How I started with Git and Github
 published: true
 ---
 
-As far as I can remember it was the time of [Hacktoberfest-2019](https://hacktoberfest.digitalocean.com/) hosted by [amFOSS](https://amfoss.in/) when first time I had heard about Git & GitHub. We were supposed to create `Pull Requests` and they were monitoring who were creating their `PR` faster and top 10 were getting rewards. Not only by them even we can get official rewards like T-Shirt and cool stickers from Hacktoberfest. Well that's a preety fun way to start with Git,isn't it?
+As far as I can remember it was the time of [Hacktoberfest-2019](https://hacktoberfest.digitalocean.com/) hosted by [amFOSS](https://amfoss.in/) when first time I had heard about Git & GitHub. We were supposed to create `Pull Requests` and they were monitoring who were creating their `PR` faster and top 10 were getting rewards. Not only by them even we can get official rewards like T-Shirt and cool stickers from Hacktoberfest for creating three Pull Requests. Well that's a preety fun way to start with Git,isn't it?
 
-[Link to another page](another-page).
+…do you really just want to contribute to your first open source project?
 
-There should be whitespace between paragraphs.
+This one’s for you!
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+> It’s totally easy to get started with Git. If you’re a fast reader (and you don’t take a lot of time with sign up and installation), you can be up and running on GitHub about ten minutes from right now.
+> 
 
 ## [](#header-2)Header 2
 
