@@ -263,5 +263,5 @@ So now you have a GitHub repository and you know how to add files and changes to
 
 
 
-<center> Have a great journey with Git & GitHub.
+<center> **Have a great journey with Git & GitHub.**
 
