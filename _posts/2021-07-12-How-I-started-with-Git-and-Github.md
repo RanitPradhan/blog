@@ -62,19 +62,13 @@ is also seriously useful if you’re just starting out! We’ll discuss that too
 Go to [GitHub](https://github.com/) and sign up for an account. You could just stop there and GitHub would work just fine. It’s a good idea, though, to [install Git](https://git-scm.com/downloads) if you haven’t already. You can absolutely get started without it, but if you want to work on your local computer, then you want to have Git installed. You can download it or [install it via your package manager instead](https://gist.github.com/derhuerst/1b15ff4652a867391f03).
 
 Now go to your terminal and introduce yourself to Git! To set your username for *every repository* on your computer, type
+
 ```
 git config --global user.name "<your_name_here>"
 ```
-replacing “<your name here>” with your own name in quotations. You can use any name or handle you want. If you want to set your name for just one repository, leave out the word “global.”
 
-Now you can tell Git your email, and make sure it’s the same email you used when you signed up for GitHub
-``` git config --global user.email "<your_email@email.com>" ```
 
-##### [](#header-5)Header 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
 
 ###### [](#header-6)Header 6
 
