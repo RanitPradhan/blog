@@ -155,7 +155,7 @@ It’s a smart idea to include a **README** file with information about your pro
 * Decide whether you want this to be a public or a private repository
 * Click “Initialize this repository with a README” if you want to include the README file. (I definitely recommend doing this! It’s the first thing people are going to look at when they check out your repository. It’s also a great place to put information that you need to have in order to understand or run the project.)
 
-![](https://github.com/RanitPradhan/blog/blob/master/Images/blog1.jpg")
+![](https://github.com/RanitPradhan/blog/blob/master/Images/blog1.jpg)
 
 ###### [](#header-6)Header 6
 
