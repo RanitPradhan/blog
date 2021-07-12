@@ -52,7 +52,9 @@ git checkout
 ```
 You might be working with other people, or you might want to make changes and test them out before you really commit them. The commands above are what you need to get started with collaboration.
 
-```git help```
+```
+git help
+```
 is also seriously useful if you’re just starting out! We’ll discuss that too.
 
 (If you’re on a Mac, you already have a terminal! You can search for it by clicking on the magnifying glass icon in the upper right-hand corner of your screen and searching for the word “terminal.” )
@@ -67,9 +69,7 @@ Now go to your terminal and introduce yourself to Git! To set your username for 
 git config --global user.name "<your_name_here>"
 ```
 
-
-
-
+  
 ###### [](#header-6)Header 6
 
 | head1        | head two          | three |
