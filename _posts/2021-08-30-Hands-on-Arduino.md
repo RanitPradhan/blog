@@ -7,58 +7,26 @@ Well, I can clearly say that after acquaintance with Arduino, my excitement towa
 
 [GitHub Repository](https://github.com/RanitPradhan/bi0s/tree/master/Arduino){:target="_blank"}
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+###### [](#header-4)Overview
 
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Overview
-
-| Project      | Main Components   | Link     |
-|:-------------|:------------------|:---------|
-| ok           | good swedish fish | [Link]() |
-| out of stock | good and plenty   | [Link]() |
-| ok           | good `oreos`      | [Link]() |
-| ok           | good `zoute` drop | [Link]() |
-
+| Projects                       | Main Components   | Link     |
+|:-------------------------------|:------------------|:---------|
+| Digital Output                 | good swedish fish | [Link]() |
+| Analog Output                  | good and plenty   | [Link]() |
+| Digital Input with Output      | good `oreos`      | [Link]() |
+| Serial Monitor                 | good `zoute` drop | [Link]() |
+| Analog Input                   | good `zoute` drop | [Link]() |
+| RGB LED                        | good `zoute` drop | [Link]() |
+| Servo                          | good `zoute` drop | [Link]() |
+| LCD                            | good `zoute` drop | [Link]() |
+| Temperature Sensor             | good `zoute` drop | [Link]() |
+| LDR                            | good `zoute` drop | [Link]() |
+| IR proximity & color detection | good `zoute` drop | [Link]() |
+| Switching using transistor     | good `zoute` drop | [Link]() |
+| Shift register                 | good `zoute` drop | [Link]() |
+| Peizo Buzzer                   | good `zoute` drop | [Link]() |
+| Seven segment display          | good `zoute` drop | [Link]() |
 ### There's a horizontal rule below this.
 
 * * *
