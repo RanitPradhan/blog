@@ -3,7 +3,7 @@ title: Hands on Arduino
 published: true
 ---
 
-Well I can clearly say that after acquaintance with Arduino my excitement towards IoT field was unmountable.
+Well, I can clearly say that after acquaintance with Arduino, my excitement towards IoT field was unmountable.
 
 [GitHub Repository](https://github.com/RanitPradhan/bi0s/tree/master/Arduino){:target="_blank"}
 
