@@ -8,7 +8,7 @@ Well, I can clearly say that after acquaintance with Arduino, my excitement towa
 [GitHub Repository](https://github.com/RanitPradhan/bi0s/tree/master/Arduino){:target="_blank"}
 
 
-###### [](#header-4)Overview
+###### [](#header-6)Overview
 
 | Projects                       | Main Components   | Link     |
 |:-------------------------------|:------------------|:---------|
@@ -27,6 +27,7 @@ Well, I can clearly say that after acquaintance with Arduino, my excitement towa
 | Shift register                 | good `zoute` drop | [Link]() |
 | Peizo Buzzer                   | good `zoute` drop | [Link]() |
 | Seven segment display          | good `zoute` drop | [Link]() |
+
 ### There's a horizontal rule below this.
 
 * * *
