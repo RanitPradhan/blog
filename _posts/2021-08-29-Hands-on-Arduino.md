@@ -1,11 +1,11 @@
 ---
-title: One More Sample Page
+title: Hands on Arduino
 published: true
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](another-page).
+[GitHub Repository](https://github.com/RanitPradhan/bi0s/tree/master/Arduino){:target="_blank"}
 
 There should be whitespace between paragraphs.
 
