@@ -29,6 +29,7 @@ Well, I can clearly say that after acquaintance with Arduino, my excitement towa
 | Peizo Buzzer                   | Peizo Buzzer, LED | [Link](https://github.com/RanitPradhan/bi0s/tree/master/Arduino/Documents/Peizo_Buzzer){:target="_blank"} |
 | Seven segment display          | Seven segment | [Link](https://github.com/RanitPradhan/bi0s/tree/master/Arduino/Documents/Seven_segment_display){:target="_blank"} |
 | Peizo Buzzer                   | Peizo Buzzer, LED | [Link](https://github.com/RanitPradhan/bi0s/tree/master/Arduino/Documents/Peizo_Buzzer){:target="_blank"} |
+
 ### There's a horizontal rule below this.
 
 * * *
