@@ -25,7 +25,7 @@ Well, I can clearly say that after acquaintance with Arduino, my excitement towa
 | IR proximity & color detection | Photo Diode, IR LED | [Link](https://github.com/RanitPradhan/bi0s/tree/master/Arduino/Documents/IR_proximity_&_color_detection){:target="_blank"} |
 | Switching using transistor     | NPN Transistor, LED | [Link](https://github.com/RanitPradhan/bi0s/tree/master/Arduino/Documents/Switching_using_transistor){:target="_blank"} |
 | Motor & Relay                  | NPN Tran., 5V 2Pole Relay, 5V DC Motor, Diode 1N4007| [Link](https://github.com/RanitPradhan/bi0s/tree/master/Arduino/Documents/Motor_&_Relay){:target="_blank"} |
-| Shift register                 | Shift register, LED | [Link](https://github.com/RanitPradhan/bi0s/tree/master/Arduino/Documents/Shift_register){:target="_blank"} |
+| Shift register                 | 74HC595, LED      | [Link](https://github.com/RanitPradhan/bi0s/tree/master/Arduino/Documents/Shift_register){:target="_blank"} |
 | Peizo Buzzer                   | Peizo Buzzer, LED | [Link](https://github.com/RanitPradhan/bi0s/tree/master/Arduino/Documents/Peizo_Buzzer){:target="_blank"} |
 | Seven segment display          | Seven segment | [Link](https://github.com/RanitPradhan/bi0s/tree/master/Arduino/Documents/Seven_segment_display){:target="_blank"} |
 | Camera                            | OV7670 Camera module,4.7K & 10K register | [Link](https://github.com/RanitPradhan/bi0s/tree/master/Arduino/Documents/Camera){:target="_blank"} |
