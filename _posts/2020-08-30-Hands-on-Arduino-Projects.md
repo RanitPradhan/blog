@@ -16,7 +16,7 @@ Well, I can clearly say that after acquaintance with Arduino, my excitement towa
 | Analog Output                  | LED   | [Link](https://github.com/RanitPradhan/bi0s/tree/master/Arduino/Documents/Analog_Output){:target="_blank"} |
 | Digital Input with Output      | LED| [Link](https://github.com/RanitPradhan/bi0s/tree/master/Arduino/Documents/Digital_Input_with_Output){:target="_blank"} |
 | Serial Monitor                 | Arduino IDE| [Link](https://github.com/RanitPradhan/bi0s/tree/master/Arduino/Documents/Serial_Monitor){:target="_blank"} |
-| Analog Input                   | LED, 10k Potentiometer | [Link](https://github.com/RanitPradhan/bi0s/tree/master/Arduino/Documents/Analog_Input){:target="_blank"} |
+| Analog Input                   | LED, 10k Potentiometer | [Link](https://github.com/RanitPradhan/bi0s/tree/master/Arduino/Documents/Analog _Input){:target="_blank"} |
 | RGB LED                        | RGB LED | [Link](https://github.com/RanitPradhan/bi0s/tree/master/Arduino/Documents/RGB_LED){:target="_blank"} |
 | Servo                          | Servo Motor | [Link](https://github.com/RanitPradhan/bi0s/tree/master/Arduino/Documents/Servo){:target="_blank"} |
 | LCD                            | 16x2 LCD, 10k Potentiometer  | [Link](https://github.com/RanitPradhan/bi0s/tree/master/Arduino/Documents/Analog_Output){:target="_blank"} |
